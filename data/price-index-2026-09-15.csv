@@ -1,0 +1,13 @@
+kg,chargeable_kg,air_service,air_total_usd,air_per_kg_usd,air_duty_included,air_transit,sea_total_usd,sea_per_kg_usd,sea_transit,priced_on
+0.5,0.5,"Air, door to door",9.53,19.06,true,6 to 12 working days,,,,2026-09-15
+1,1,"Air, door to door",17.46,17.46,true,6 to 12 working days,,,,2026-09-15
+2,2,"Air, door to door",33.33,16.66,true,6 to 12 working days,,,,2026-09-15
+5,5,"Air, door to door",80.96,16.19,true,6 to 12 working days,,,,2026-09-15
+10,10,"Air, door to door",150.4,15.04,true,6 to 12 working days,,,,2026-09-15
+20,20,"Air, door to door",299.2,14.96,true,6 to 12 working days,,,,2026-09-15
+35,35,"Air, door to door",487.7,13.93,true,6 to 12 working days,,,,2026-09-15
+50,50,Air consolidation,546.43,10.93,false,10 to 14 days,,,,2026-09-15
+100,100,Air consolidation,707.15,7.07,false,10 to 14 days,398.81,3.99,30 to 40 days,2026-09-15
+200,200,Air consolidation,986.31,4.93,false,10 to 14 days,774.95,3.87,30 to 40 days,2026-09-15
+500,500,Air consolidation,1826.34,3.65,false,10 to 14 days,1820.21,3.64,30 to 40 days,2026-09-15
+1000,1000,Air consolidation,3137.46,3.14,false,10 to 14 days,,,,2026-09-15
