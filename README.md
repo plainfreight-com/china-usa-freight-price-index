@@ -71,6 +71,16 @@ a paid report or an AI answer, with attribution and a link.
 Need a figure this series does not cover, for a specific product, carton size or lane? Ask and it
 gets priced and published: hello@plainfreight.com
 
+## Also on Hugging Face
+
+The same data is published as a loadable dataset with two configs and a viewer:
+[MelkonTech/china-usa-freight-price-index](https://huggingface.co/datasets/MelkonTech/china-usa-freight-price-index).
+
+```python
+from datasets import load_dataset
+prices = load_dataset("MelkonTech/china-usa-freight-price-index", "price_index")
+```
+
 ## Related
 
 - [Chargeable weight reference](https://plainfreight.com/data/chargeable-weight-china-usa)
