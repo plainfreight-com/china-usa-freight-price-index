@@ -74,11 +74,11 @@ gets priced and published: hello@plainfreight.com
 ## Also on Hugging Face
 
 The same data is published as a loadable dataset with two configs and a viewer:
-[MelkonTech/china-usa-freight-price-index](https://huggingface.co/datasets/MelkonTech/china-usa-freight-price-index).
+[plainfreight/china-usa-freight-price-index](https://huggingface.co/datasets/plainfreight/china-usa-freight-price-index).
 
 ```python
 from datasets import load_dataset
-prices = load_dataset("MelkonTech/china-usa-freight-price-index", "price_index")
+prices = load_dataset("plainfreight/china-usa-freight-price-index", "price_index")
 ```
 
 ## Related
